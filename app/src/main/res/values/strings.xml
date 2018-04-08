@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Ashish Patil</string>
+
+    <string name="dashboard">Dashboard</string>
+    <string name="pico">Pico</string>
+    <string name="connected">Connected</string>
+    <string name="vital">Vitals</string>
+    <string name="walking">Walking</string>
+    <string name="heart_rate">Heart Rate</string>
+    <string name="rate">74 bmp</string>
+    <string name="respiration">Respiration</string>
+    <string name="brpm">23 Brpm</string>
+    <string name="btn_take_hr">Take HR</string>
+    <string name="skin_temprature">Skin Temp</string>
+    <string name="steps">Steps</string>
+    <string name="temp">37.2 °C</string>
+
+    <string name="last_taken">Last taken at 3:20 am</string>
+
+    <string name="hourly">Hourly</string>
+    <string name="daily">Daily</string>
+    <string name="weekly">Weekly</string>
+    <string name="monthly">Monthly</string>
+    <string name="histroy">Histroy</string>
+    <string name="_90">90%</string>
+    <string name="_7896">7896</string>
+
+
+</resources>
